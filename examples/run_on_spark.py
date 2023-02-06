@@ -1,4 +1,4 @@
-from cc2dataset import cc2dataset
+from bildtext import cc2dataset
 import os
 
 if __name__ == "__main__":

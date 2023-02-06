@@ -1,4 +1,4 @@
-from cc2dataset import process_wet
+from bildtext import process_wet
 import os
 import pandas as pd
 
